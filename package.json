@@ -1,6 +1,6 @@
 {
   "name": "@real_andrezimpel/gatsby-source-contentful",
-  "description": "Gatsby source plugin for building websites using the Contentful CMS as a data source",
+  "description": "Fork: Gatsby source plugin for building websites using the Contentful CMS as a data source",
   "version": "5.0.3",
   "author": "Marcus Ericsson <mericsson@gmail.com> (mericsson.com)",
   "bugs": {
@@ -51,7 +51,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby.git",
+    "url": "https://github.com/andrezimpel/gatsby-source-contentful",
     "directory": "packages/gatsby-source-contentful"
   },
   "scripts": {
