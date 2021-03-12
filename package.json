@@ -1,5 +1,5 @@
 {
-  "name": "@real_andrezimpel/gatsby-plugin-contentful",
+  "name": "real_andrezimpel/gatsby-plugin-contentful",
   "description": "Fork: Gatsby source plugin for building websites using the Contentful CMS as a data source",
   "version": "5.0.3",
   "author": "Andre Zimpel <andre@unknownbasics.com>",
